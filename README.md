@@ -58,10 +58,10 @@ File ini akan berisi dua kolom: filename (nama file gambar) dan caption (deskrip
 ## 💡 Hasil Utama
 Analisis menghasilkan 13 kata kunci elemen lanskap yang paling dominan, yaitu: Bench, Building, Forest, Garden, House, Lawn, Leaf, Park, Path, Plant, Road/Street, dan Sign. Analisis lebih lanjut menunjukkan bahwa persepsi estetika sangat bergantung pada konteks, keteraturan, dan perawatan, di mana elemen seperti Bench dan House yang terintegrasi baik cenderung dinilai positif, sementara Path yang tidak terawat dipersepsikan negatif.
 
-✍️ Sitasi
+## ✍️ Sitasi
 Jika Anda menggunakan kode atau temuan dari penelitian ini dalam pekerjaan Anda, mohon sitasi karya berikut:
 
 Fisabila, D. F. (2025). Evaluasi Estetika Lanskap Kampus IPB Darmaga menggunakan Bootstrapped Language-Image Pre-training (BLIP) (Tugas Akhir). Institut Pertanian Bogor: Bogor, Indonesia.
 
-⚖️ Lisensi
+## ⚖️ Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT. Lihat file LICENSE untuk detail lebih lanjut.
