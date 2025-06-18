@@ -1,4 +1,4 @@
-#Evaluasi Estetika Lanskap Kampus IPB Darmaga menggunakan BLIP
+# Evaluasi Estetika Lanskap Kampus IPB Darmaga menggunakan BLIP
 
 Repositori ini berisi kode dan data pendukung untuk penelitian tugas akhir berjudul "Evaluasi Estetika Lanskap Kampus IPB Darmaga menggunakan Bootstrapped Language-Image Pre-training (BLIP)". Penelitian ini dilakukan di Departemen Arsitektur Lanskap, Fakultas Pertanian, Institut Pertanian Bogor.
 
